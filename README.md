@@ -2,4 +2,4 @@
 
 ## Critical raw materials Act
 
-[Year-2023](https://sustavis.github.io/data/critical-raw-materials-list.json)
+[List](https://sustavis.github.io/data/critical-raw-materials-act.json)
